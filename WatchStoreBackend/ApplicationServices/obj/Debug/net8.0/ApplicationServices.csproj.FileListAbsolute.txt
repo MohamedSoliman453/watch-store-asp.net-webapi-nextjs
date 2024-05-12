@@ -1,0 +1,45 @@
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\bin\Debug\net8.0\ApplicationServices.deps.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\bin\Debug\net8.0\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\bin\Debug\net8.0\ApplicationServices.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\bin\Debug\net8.0\ApplicationDomain.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\bin\Debug\net8.0\ApplicationDomain.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ApplicationServices.csproj.AssemblyReference.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ApplicationServices.AssemblyInfo.cs
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\Applicat.7EB1A67E.Up2Date
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\refint\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ApplicationServices.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\Application.Services\obj\Debug\net8.0\ref\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.AssemblyReference.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfo.cs
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\refint\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationServices.deps.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationServices.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationDomain.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationDomain.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\Applicat.7EB1A67E.Up2Date
+D:\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ref\ApplicationServices.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationServices.deps.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationServices.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationServices.pdb
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationDomain.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\bin\Debug\net8.0\ApplicationDomain.pdb
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.AssemblyReference.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfoInputs.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.AssemblyInfo.cs
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\Applicat.7EB1A67E.Up2Date
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\refint\ApplicationServices.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ApplicationServices.pdb
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\ApplicationServices\obj\Debug\net8.0\ref\ApplicationServices.dll

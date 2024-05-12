@@ -1,0 +1,303 @@
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.csproj.AssemblyReference.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.AssemblyInfoInputs.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.AssemblyInfo.cs
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.csproj.CoreCompileInputs.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\refint\WatchStoreBackend.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\appsettings.Development.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\appsettings.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.staticwebassets.runtime.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.exe
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.deps.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.runtimeconfig.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\AutoMapper.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Azure.Core.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Azure.Identity.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Humanizer.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationDomain.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationServices.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationDomain.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationServices.pdb
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.WatchStoreBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.WatchStoreBackend.props
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WatchStoreBackend.props
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WatchStoreBackend.props
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\scopedcss\bundle\WatchStoreBackend.styles.css
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchSto.72B2A0A5.Up2Date
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.genruntimeconfig.cache
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\ref\WatchStoreBackend.dll
+D:\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\appsettings.Development.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\appsettings.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.staticwebassets.runtime.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.exe
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.deps.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.runtimeconfig.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\WatchStoreBackend.pdb
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\AutoMapper.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Azure.Core.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Azure.Identity.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Humanizer.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.CodeDom.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationDomain.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationServices.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationDomain.pdb
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\ApplicationServices.pdb
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.csproj.AssemblyReference.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.AssemblyInfoInputs.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.AssemblyInfo.cs
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.csproj.CoreCompileInputs.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.WatchStoreBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.build.WatchStoreBackend.props
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WatchStoreBackend.props
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WatchStoreBackend.props
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\scopedcss\bundle\WatchStoreBackend.styles.css
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchSto.72B2A0A5.Up2Date
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\refint\WatchStoreBackend.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.pdb
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\WatchStoreBackend.genruntimeconfig.cache
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\obj\Debug\net8.0\ref\WatchStoreBackend.dll
+D:\Mohamed Soliman\Watch Store Full-stack Project\WatchStoreBackend\WatchStoreBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll

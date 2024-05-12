@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|d:\\mohamed soliman\\watch store full-stack project\\watchstorebackend\\watchstorebackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|solutionrelative:watchstorebackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB2B1AD-C30E-4501-A8C9-5ECBEF6EE947}|ApplicationServices\\ApplicationServices.csproj|d:\\mohamed soliman\\watch store full-stack project\\watchstorebackend\\applicationservices\\appservices\\socialauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB2B1AD-C30E-4501-A8C9-5ECBEF6EE947}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\appservices\\socialauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|d:\\mohamed soliman\\watch store full-stack project\\watchstorebackend\\watchstorebackend\\controllers\\socialauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|solutionrelative:watchstorebackend\\controllers\\socialauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|d:\\mohamed soliman\\watch store full-stack project\\watchstorebackend\\watchstorebackend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|solutionrelative:watchstorebackend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|d:\\mohamed soliman\\watch store full-stack project\\watchstorebackend\\watchstorebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|solutionrelative:watchstorebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|d:\\mohamed soliman\\watch store full-stack project\\watchstorebackend\\watchstorebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C990B889-9D64-46AB-BA2F-FCE9ECCF6483}|WatchStoreBackend\\WatchStoreBackend.csproj|solutionrelative:watchstorebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB2B1AD-C30E-4501-A8C9-5ECBEF6EE947}|ApplicationServices\\ApplicationServices.csproj|d:\\mohamed soliman\\watch store full-stack project\\watchstorebackend\\applicationservices\\appservices\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB2B1AD-C30E-4501-A8C9-5ECBEF6EE947}|ApplicationServices\\ApplicationServices.csproj|solutionrelative:applicationservices\\appservices\\customersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocialAuthService.cs",
+              "DocumentMoniker": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\ApplicationServices\\AppServices\\SocialAuthService.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\AppServices\\SocialAuthService.cs",
+              "ToolTip": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\ApplicationServices\\AppServices\\SocialAuthService.cs",
+              "RelativeToolTip": "ApplicationServices\\AppServices\\SocialAuthService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:53:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocialAuthController.cs",
+              "DocumentMoniker": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Controllers\\SocialAuthController.cs",
+              "RelativeDocumentMoniker": "WatchStoreBackend\\Controllers\\SocialAuthController.cs",
+              "ToolTip": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Controllers\\SocialAuthController.cs",
+              "RelativeToolTip": "WatchStoreBackend\\Controllers\\SocialAuthController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:53:43.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WatchStoreBackend\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WatchStoreBackend\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:53:40.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "WatchStoreBackend\\appsettings.json",
+              "ToolTip": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\appsettings.json",
+              "RelativeToolTip": "WatchStoreBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T10:52:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersService.cs",
+              "DocumentMoniker": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\ApplicationServices\\AppServices\\CustomersService.cs",
+              "RelativeDocumentMoniker": "ApplicationServices\\AppServices\\CustomersService.cs",
+              "ToolTip": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\ApplicationServices\\AppServices\\CustomersService.cs",
+              "RelativeToolTip": "ApplicationServices\\AppServices\\CustomersService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:44:29.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WatchStoreBackend\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WatchStoreBackend\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:28:47.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Program.cs",
+              "RelativeDocumentMoniker": "WatchStoreBackend\\Program.cs",
+              "ToolTip": "D:\\Mohamed Soliman\\Watch Store Full-stack Project\\WatchStoreBackend\\WatchStoreBackend\\Program.cs",
+              "RelativeToolTip": "WatchStoreBackend\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:47:48.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
